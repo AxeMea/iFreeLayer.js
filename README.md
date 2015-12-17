@@ -43,7 +43,7 @@ html代码中，有两个点是强制要有的。
 
 ```javascript
   <script type="text/javascript" src="http://cdn.bootcss.com/jquery/3.0.0-alpha1/jquery.min.js"></script>
-  <script type="text/javascript" src="https://github.com/AxeMea/iFreeLayer.js"></script>
+  <script type="text/javascript" src="https://rawgit.com/axemea/iFreeLayer.js/master/iFreeLayer.min.js"></script>
 ```
 
 ####初始化
